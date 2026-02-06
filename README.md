@@ -8,20 +8,20 @@ The goal is to experiment with preprocessing, model training, evaluation, and fe
 
 **Implementations of algorithms including:**
 
-Linear Regression
+- Linear Regression
 
-Logistic Regression
+- Logistic Regression
 
-Decision Trees
+- Decision Trees
 
-Support Vector Machines (SVM)
+- Support Vector Machines (SVM)
 
-k-Nearest Neighbors (k-NN)
+- k-Nearest Neighbors (k-NN)
 
-Random Forests
+- Random Forests
 
-Data preprocessing and feature encoding
+- Data preprocessing and feature encoding
 
-Train-test splitting and model evaluation
+- Train-test splitting and model evaluation
 
-Visualization of results where applicable
+- Visualization of results where applicable

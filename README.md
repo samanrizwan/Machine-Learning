@@ -1,9 +1,12 @@
+
+**Machine Learning Algorithm Practice**
+
 This repository contains practice projects for various Machine Learning algorithms using Python and popular libraries such as scikit-learn, pandas, and NumPy.
 The goal is to experiment with preprocessing, model training, evaluation, and feature engineering.
 
 
 
-Implementations of algorithms including:
+**Implementations of algorithms including:**
 
 Linear Regression
 
